@@ -1,3 +1,20 @@
-# file_organizer
-The Python File Organizer is an automation project that helps manage files efficiently. It scans a selected folder and automatically sorts files into different categories such as Images, Documents, Videos, and Others based on their file type.
-This project is built using Python and uses built-in libraries to handle file operations. It reduces manual effort, saves time, and improves file organization by creating folders and moving files automatically
+# Python File Organizer
+
+This project automatically organizes files in a folder into categories like Images, Documents, Videos, and Others.
+
+## Features
+- Automatically sorts files by type
+- Creates folders if they don’t exist
+- Reduces manual file management
+
+## Technologies Used
+- Python
+
+## How to Run
+1. Install Python
+2. Update the folder path in the script
+3. Run:
+   python file_organizer.py
+
+## Author
+Lokeswari V
